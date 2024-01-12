@@ -10,4 +10,4 @@ In this problem, we used the following five packaged foods:
 - Organic Vanilla Soy Beverage
 ### Part II - Modeling 
 ## Decision Variables
-The Decision Variables in the problem is the quantities of the five packaged food we choose. Let's denote $$X$$ $_{1}$
+The Decision Variables in the problem is the quantities of the five packaged food we choose. Let's denote x<sub>1</sub>
