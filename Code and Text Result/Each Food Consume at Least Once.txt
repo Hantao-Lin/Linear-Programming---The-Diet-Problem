@@ -1,0 +1,6 @@
+Cereal = 24.726612
+Fish = 1.0
+Soy_Milk = 102.13274
+Spam = 1.0
+Vegetable = 1.0
+Objective = 81.71279824
