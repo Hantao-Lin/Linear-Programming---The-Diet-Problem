@@ -37,3 +37,7 @@ The following are the weekly nutritional constraints:
  0.5x<sub>1</sub> + 18x<sub>2</sub> + 1x<sub>3</sub> + 0.4x<sub>4</sub> + 1x<sub>5</sub> &ge; 126
 - **Potassium Constriant**: The total potassium content should be at least 32900 mg. \
  128.84x<sub>1</sub> + 150x<sub>2</sub> + 185x<sub>3</sub> + 280x<sub>4</sub> + 280x<sub>5</sub> &ge; 32900
+### Part III
+- [Python File](https://github.com/Hantao-Lin/Linear-Programming---The-Diet-Problem/blob/main/Code%20and%20Text%20Result/Diet_Problem.ipynb)
+- [No Variety Text Result](https://github.com/Hantao-Lin/Linear-Programming---The-Diet-Problem/blob/main/Code%20and%20Text%20Result/No%20Variety%20Result.txt)
+- [Consume Each Food at Least Once Text Result](https://github.com/Hantao-Lin/Linear-Programming---The-Diet-Problem/blob/main/Code%20and%20Text%20Result/Each%20Food%20Consume%20at%20Least%20Once.txt)
